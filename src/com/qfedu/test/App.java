@@ -5,7 +5,7 @@ public class App {
         System.out.println("hhhhh");
 //         System.out.println("asdfg");
 
-
+        int i = 0;
         int a = 10;
 
     }
